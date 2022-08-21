@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package pl.hubert;
 
 import java.io.*;
 import java.nio.file.FileSystems;
